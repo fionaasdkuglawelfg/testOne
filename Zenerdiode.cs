@@ -28,7 +28,7 @@ namespace ZenerdiodeAufgabe
         }
         public void setCurrent (double StromIz)
         {
-
+            //gitHub
         }
         public double getVoltageUz()
         {
