@@ -13,6 +13,7 @@ namespace ZenerdiodeAufgabe
         private double currentIzmin;
         private double currentIzmax;
         private double currentIz;
+        private double noname;
 
 
         //Konstruktor
