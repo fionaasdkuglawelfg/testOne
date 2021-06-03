@@ -6,7 +6,8 @@ namespace ZenerdiodeAufgabe
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Program!");
+            Console.WriteLine("this was made for a GitHub Test");
         }
     }
 }
