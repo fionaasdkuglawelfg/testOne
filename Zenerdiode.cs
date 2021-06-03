@@ -13,6 +13,7 @@ namespace ZenerdiodeAufgabe
         private double currentIzmin;
         private double currentIzmax;
         private double currentIz;
+        private double noname;
 
 
         //Konstruktor
@@ -27,7 +28,7 @@ namespace ZenerdiodeAufgabe
         }
         public void setCurrent (double StromIz)
         {
-
+            //gitHub
         }
         public double getVoltageUz()
         {
